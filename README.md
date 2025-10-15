@@ -59,7 +59,11 @@ Run the following commands step-by-step:
 python -m venv venv
 ```
 2️⃣ Activate it
-##### On Windows:
+##### On Windows CMD
+```
+venv\Scripts\activate
+```
+##### On Windows Git Bash:
 ```
 source venv/Scripts/activate
 ```
