@@ -92,7 +92,7 @@ Navigate to the project folder and open the **`frontend.html`** file directly in
 
 ---
 
-Once opened, you’ll see an input field where you can enter any username (for example: `Yash`, `Mahak`, `Palak`, `Kavya`, or `Abhishek`).  
+Once opened, you’ll see an input field where you can enter any username (for example: `Yash`, `Gaurav`, `Mahak`, `Palak` or `Abhishek`).  
 Click the **“Get Recommendations”** button or press **Enter**.  
 
 The page will display:
