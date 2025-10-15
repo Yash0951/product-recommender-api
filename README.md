@@ -4,7 +4,7 @@ A **full-stack intelligent recommendation system** that delivers **personalized 
 
 > Imagine a shopping platform that not only *recommends* products but also *tells you why* it thinks you’ll love them. 💬✨
 
-##Demo Video - https://youtu.be/JF1ZZ8JZ9AU?si=hnm9DnrdEnPkpAKC
+#### Demo Video - https://youtu.be/JF1ZZ8JZ9AU?si=hnm9DnrdEnPkpAKC
 ---
 
 ## 🌟 Features
