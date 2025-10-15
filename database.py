@@ -94,7 +94,7 @@ def init_db():
     db.commit()
     # End the conversation.
     db.close()
-    print("Database initialized with Yash, Mahak, Palak, Kavya, and Abhishek.")
+    print("Database initialized with Yash, Mahak, Palak, Gaurav, and Abhishek.")
 
 # This makes the script runnable from the command line.
 # If you run `python database.py`, this init_db() function will be called.
